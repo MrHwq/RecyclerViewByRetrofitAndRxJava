@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewByRetrofit</string>
+    <string name="entryname">RecyclerView和Retrofit测试使用</string>
+</resources>
